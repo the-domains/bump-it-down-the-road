@@ -1,4 +1,3 @@
-layout_spectrum: 0.9247295681852847
 typography_spectrum: 0.9907905072905123
 color:
   brandStrength: 0.08435929007828236
@@ -6,9 +5,13 @@ color:
   saturation: 0.08693515160121024
   rhythmicContrast: 0.3669288302771747
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.9247295681852847
+author:
+  name: Jurriaan
+  email: jurriaanhes@gmail.com
 name: bump it down the road
