@@ -15,5 +15,9 @@ author:
   name: Jurriaan
   email: jurriaanhes@gmail.com
 name: bump it down the road
+navigation:
+  - name: Instagram
+    url: 'https://www.instagram.com/jurriaanhes/'
+    type: external
 title: ''
 description: Food // Cooking // Gardening // Interior design // Etc
