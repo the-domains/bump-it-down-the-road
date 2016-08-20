@@ -1,14 +1,19 @@
-layout_spectrum: 0.9247295681852847
-typography_spectrum: 0.9907905072905123
+typography_spectrum: 0.5304528975393623
 color:
-  brandStrength: 0.08435929007828236
-  lightness: 0.11365734250284731
-  saturation: 0.08693515160121024
-  rhythmicContrast: 0.3669288302771747
+  brandStrength: 0.32734626019373536
+  lightness: 0.8362136771902442
+  saturation: 0.9952659097034484
+  rhythmicContrast: 0.6689799160230905
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#9AD2C9'
+    - '#4C4845'
+    - '#A4A1A0'
+    - '#72716F'
+layout_spectrum: 0.6822190526872873
+author:
+  name: Jurriaan
+  email: jurriaanhes@gmail.com
 name: bump it down the road
+title: ''
+description: Food // Cooking // Gardening // Interior design // Etc
