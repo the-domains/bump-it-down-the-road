@@ -3,8 +3,8 @@ at__type: Article
 at__context: 'http://schema.org'
 isBasedOnUrl: 'https://www.instagram.com/p/BJZ5dO4B1MG/'
 title: Embed content
-datePublished: '2016-08-22T12:04:20.792Z'
-dateModified: '2016-08-22T12:04:19.984Z'
+datePublished: '2016-08-22T12:06:15.985Z'
+dateModified: '2016-08-22T12:06:14.082Z'
 publisher: {}
 author:
   - name: jurriaanhes
@@ -22,5 +22,5 @@ _type: MediaObject
 
 Let's see if Instagram embeds nicely.
 
-I first added embed code with a code element. That didn't work, but using the link of a post is parsed quite nicely by the grid.
+I first added embed code with a code element. That didn't work, but using the link of a Instagram post did get som result. The link was parsed nicely, but the image got used as a backgroud to the post, making it hard to see it.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8f913b57e754563ef5fcf7906e8b36ce767663e.jpg)
