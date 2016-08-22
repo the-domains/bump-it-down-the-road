@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stuff I like to post]]></title>
+        <description><![CDATA[Stuff I like to post]]></description>
+        <link>http://bumpitdowntheroad.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 12:00:00 GMT</lastBuildDate>
+        <atom:link href="http://bumpitdowntheroad.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Embed content]]></title>
+            <description><![CDATA[<article><h1>Embed content</h1><p>Let's see if Instagram embeds nicely</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e9b0cf05e1542ae551988210c403ead5/croprotate.jpg?cropheight=311&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14033595_1113391768740194_1632969852_n.jpg%3Fig_cache_key%3DMTMyMjM0MDY2MzA5ODI5OTE0Mg%253D%253D.2&x=0&y=120"></article>]]></description>
+            <link>https://www.instagram.com/p/BJZ5dO4B1MG/</link>
+            <guid isPermaLink="false">ed97c263-0867-4b89-b266-b52a7876653f</guid>
+            <pubDate>Mon, 22 Aug 2016 11:59:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tell it to the one legged man]]></title>
+            <description><![CDATA[<article><h1>Tell it to the one legged man</h1><p>"Tell it to the one legged man so he can bump it off down the road."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/94c7d53826ef92954ade35aae51210f6/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FcWB9vsgmtyM%2Fhqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=cWB9vsgmtyM</link>
+            <guid isPermaLink="false">fd3af732-50a1-4c41-887e-9fbaf7d23a6c</guid>
+            <pubDate>Fri, 19 Aug 2016 12:10:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
