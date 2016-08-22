@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Embed content
-datePublished: '2016-08-22T11:51:42.560Z'
-dateModified: '2016-08-22T11:51:42.129Z'
+datePublished: '2016-08-22T11:52:33.391Z'
+dateModified: '2016-08-22T11:52:31.672Z'
 publisher: {}
 author: []
 inFeed: true
