@@ -1,10 +1,5 @@
-name: bump it down the road
 layout_spectrum: 0.6822190526872873
 typography_spectrum: 0.5304528975393623
-analytics:
-  facebook: ''
-  google: UA-82875695-1
-  twitter: ''
 color:
   brandColors:
     - '#FFFFFF'
@@ -16,6 +11,13 @@ color:
   lightness: 0.8362136771902442
   saturation: 0.9952659097034484
   rhythmicContrast: 0.6689799160230905
+coverPrefs:
+  filter: false
+name: bump it down the road
+analytics:
+  facebook: ''
+  google: UA-82875695-1
+  twitter: ''
 title: Stuff I like to post
 author:
   name: Jurriaan
