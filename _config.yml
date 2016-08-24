@@ -1,28 +1,40 @@
-layout_spectrum: 0.6822190526872873
-typography_spectrum: 0.5304528975393623
+author:
+  name: Jurriaan
+  email: jurriaanhes@gmail.com
+title: Stuff I like to post
+name: bump it down the road
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9952659097034484
+  brandStrength: 0.3273462601937354
+  rhythmicContrast: 0.6689799160230905
   brandColors:
     - '#FFFFFF'
     - '#9AD2C9'
     - '#4C4845'
     - '#A4A1A0'
     - '#72716F'
-  brandStrength: 0.32734626019373536
   lightness: 0.8362136771902442
-  saturation: 0.9952659097034484
-  rhythmicContrast: 0.6689799160230905
 coverPrefs:
   filter: false
-name: bump it down the road
-analytics:
-  facebook: ''
-  google: UA-82875695-1
-  twitter: ''
-title: Stuff I like to post
-author:
-  name: Jurriaan
-  email: jurriaanhes@gmail.com
+typography_spectrum: 0.5304528975393623
+layout_spectrum: 1
 navigation:
   - name: Instagram
     url: 'https://www.instagram.com/jurriaanhes/'
     type: external
+analytics:
+  twitter: ''
+  facebook: ''
+  google: UA-82875695-1
